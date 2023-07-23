@@ -6,7 +6,7 @@ def countdown(number):
         print(f'{number} SECOND(S)!')
         number -= 1
         print("HAPPY NEW YEAR!")
-countdown(10)
+countdown(5)
 
 
 def countdown_with_sleep(number):
